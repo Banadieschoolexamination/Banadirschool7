@@ -1,11 +1,11 @@
 
 <html>
+    <title> Natiijo</title>
     <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <style>
-        body{
+        <link rel="stylesheet" href="table.css"/>
+        <body>  
+            <STYLE> 
+          body{
             padding: 0;
             margin: 0;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -20,6 +20,7 @@
             border-collapse: collapse;
             width: 800px;
             height: 200px;
+            color: rgb(2, 1, 14);
        
            
             
@@ -66,48 +67,53 @@
             }
             
         }
-    </style>
-    <body>
-        
-        <H3> Mohamed Abdulkadir Mohamed</H3>
-        <H3> ID: 77</H3>
-       
-        <hr>
-        <table>
-            <tr id="BANADIR SCHOOL"> 
-                <th> MAADADA</th>
-                <th> BUUNTADA</th>
-                <th> DARAJADA</th>
-                <th> FASALKA</th>
+            </STYLE>
+            <h1> Ismail Ali Adan</h1>
+            <h1> ID: 0028</h1>
+            <table border="25">
+                <tr>
+                    <th>Maadada </th>
+                    <th>Buuntada</th>
+                    <th>Darajo</th>
+                    <th>Fasalka</th>
+                </tr>
                 
-
-            </tr>
-            <td> Window</td>
-            <td> 100</td>
-            <td> A+</td>
-            <td> Computer</td>
-            <tr>
-
-           
-        </tr>
-        <td> Word</td>
-        <td> 80</td>
-        <td> B</td>
-        <td> Computer</td>
-        <tr>
-
-       
-    </tr>
-    <td> Excel</td>
-    <td> 73</td>
-    <td> C</td>
-    <td> Computer</td>
-    <tr>
-
-</tr>
-<td> Powerpoint</td>
-<td> 95</td>
-<td> A+</td>
-<td> Computer</td>
-<tr>
-
+                    <td> WINDOW 10</td>
+                   
+                    <td>85
+                        <td>  B+
+                        <td> COMPUTER</td>
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td> MS- WORD </td>
+                    <td>   80
+                        <td>B
+                    </td>
+                    <td> COMPUTER
+                    </td>
+                </tr>
+                <tr>   
+                    <td> M-S EXCEL </td>
+                    <td>65 
+                        <td> D+
+                    </td>
+                    <td> COMPUTER
+                    </td>
+                </tr>
+               
+                <tr>
+                        <td>M-S POWER POINT </td>
+                        <td>85</td>
+                        <td> B
+                        <td> COMPUTER
+                        </td>
+                    </tr>
+                    <tr>
+                        <td> SECURITY</td>
+                        <td>90</td>
+                        <td> A
+                        <td> COMPUTER
+                        </td>
+                   
