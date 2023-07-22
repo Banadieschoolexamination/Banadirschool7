@@ -20,6 +20,7 @@
             border-collapse: collapse;
             width: 800px;
             height: 200px;
+       
            
             
            
@@ -70,7 +71,7 @@
         <h1> BANADIR SCHOOL BEST</h1>
         <H3> Mohamed Abdulkadir Mohamed</H3>
         <H3> ID: 77</H3>
-        <table border="25">
+       
         <hr>
         <table>
             <tr id="BANADIR SCHOOL"> 
