@@ -70,7 +70,7 @@
             </STYLE>
             <h1> Ismail Ali Adan</h1>
             <h1> ID: 0028</h1>
-            <table border="25">
+            <table border="10">
                 <tr>
                     <th>Maadada </th>
                     <th>Buuntada</th>
