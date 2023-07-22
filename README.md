@@ -68,7 +68,7 @@
         }
     </style>
     <body>
-        <h1> BANADIR SCHOOL BEST</h1>
+        
         <H3> Mohamed Abdulkadir Mohamed</H3>
         <H3> ID: 77</H3>
        
