@@ -1,11 +1,11 @@
 
 <html>
-    <title> Natiijo</title>
     <head>
-        <link rel="stylesheet" href="table.css"/>
-        <body>  
-            <STYLE> 
-          body{
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <style>
+        body{
             padding: 0;
             margin: 0;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -20,7 +20,6 @@
             border-collapse: collapse;
             width: 800px;
             height: 200px;
-            color: rgb(2, 1, 14);
        
            
             
@@ -67,53 +66,60 @@
             }
             
         }
-            </STYLE>
-            <h1> Ismail Ali Adan</h1>
-            <h1> ID: 0028</h1>
-            <table border="1">
-                <tr>
-                    <th>Maadada </th>
-                    <th>Buuntada</th>
-                    <th>Darajo</th>
-                    <th>Fasalka</th>
-                </tr>
+    </style>
+    <body>
+        
+        <H3> Ismahan Nor Abdullahi</H3>
+        <H3> ID: 0018</H3>
+       
+        <hr>
+        <table>
+            <tr id="BANADIR SCHOOL"> 
+                <th> MAADADA</th>
+                <th> BUUNTADA</th>
+                <th> DARAJADA</th>
+                <th> FASALKA</th>
                 
-                    <td> WINDOW 10</td>
-                   
-                    <td>85
-                        <td>  B+
-                        <td> COMPUTER</td>
-                    </td>
-                </tr>
-            
-                <tr>
-                    <td> MS- WORD </td>
-                    <td>   80
-                        <td>B
-                    </td>
-                    <td> COMPUTER
-                    </td>
-                </tr>
-                <tr>   
-                    <td> M-S EXCEL </td>
-                    <td>65 
-                        <td> D+
-                    </td>
-                    <td> COMPUTER
-                    </td>
-                </tr>
-               
-                <tr>
-                        <td>M-S POWER POINT </td>
-                        <td>85</td>
-                        <td> B
-                        <td> COMPUTER
-                        </td>
-                    </tr>
-                    <tr>
-                        <td> SECURITY</td>
-                        <td>90</td>
-                        <td> A
-                        <td> COMPUTER
-                        </td>
-                   
+
+            </tr>
+            <td> First Aid</td>
+            <td> 88</td>
+            <td> B+</td>
+            <td> CAAFIMAAD</td>
+            <tr>
+
+           
+        </tr>
+        <td> CDC</td>
+        <td> 62</td>
+        <td> D</td>
+        <td> CAAFIMAAD</td>
+        <tr>
+
+       
+    </tr>
+    <td> ANATOMY</td>
+    <td> 85</td>
+    <td> B+</td>
+    <td> CAAFIMAAD</td>
+    <tr>
+
+</tr>
+<td> PHYSIOLOGY</td>
+<td> 95</td>
+<td> A+</td>
+<td> CAAFIMAAD</td>
+<tr>
+</tr>
+<td> PHARMACOLOGY</td>
+<td> 85</td>
+<td> C</td>
+<td> CAAFIMAAD</td>
+<tr>
+
+</tr>
+<td> NUTRITION</td>
+<td> 85</td>
+<td> C</td>
+<td> CAAFIMAAD</td>
+<tr>
